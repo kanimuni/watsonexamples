@@ -1,0 +1,27 @@
+{
+  "name": "testwatson",
+  "version": "1.0.0",
+  "description": "fork and clone repo to your machine run npm install create a /env dir and include the file i sent to you via slack now you should be able to querry the watson api by running",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "watson-developer-cloud": "^1.9.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanimuni/watsonexamples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanimuni/watsonexamples/issues"
+  },
+  "homepage": "https://github.com/kanimuni/watsonexamples#readme"
+}
